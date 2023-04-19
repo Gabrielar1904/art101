@@ -4,6 +4,28 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #4f012f;
+    background-color: #ffdbec;
   }
+  
+h1 {
+  font-family:'Times New Roman', Times, serif;
+  color:rgb(109, 146, 98)
+}
+
+h2 {
+  font-family:'Times New Roman', Times, serif;
+   color:#4f012f;
+}
+
+#content {
+  background-color:rgb(255, 235, 135)
+} 
+ 
+#content {
+  color:rgb(8, 51, 8)
+}
+
+#content {
+  border-style:dotted; border:dashed 4px;
+}
