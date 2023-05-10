@@ -21,9 +21,8 @@ console.log("To test out if all the numbers in the array are multiplied: ", firs
 
 // Creating the second variable that prints out the output of the array inputs with a new operation
 var newResult = numArray.map(function(x) {
-    var results  = x + 4;
+    var results = x + 4;
     return results;
 })
 
 console.log("Numbers in the array are added by 4: ", newResult);
-
