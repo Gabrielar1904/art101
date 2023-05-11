@@ -1,0 +1,20 @@
+.minor-section {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #4f012f;
+  background-color: #f3bec9;
+}
+
+  
+h2 {
+font-family:'Times New Roman', Times, serif;
+ color:#024f36;
+}
+
+#content {
+background-color:rgb(89, 4, 69);
+
+color:rgb(49, 2, 64);
+
+border: 6px dotted #eeb4d9;
+}
