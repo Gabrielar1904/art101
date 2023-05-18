@@ -20,3 +20,4 @@ function sortedUserName() {
 
 // When buttion is clicked, it calls for sortedUserName() function
 myButton.addEventListener('click', sortedUserName);
+
