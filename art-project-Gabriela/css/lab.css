@@ -6,7 +6,16 @@
   background-color: #DDD8C4;
 }
 
-.minor-section.me
+
+h2 {
+  font-family:'Trirong';
+   color:#024f36;
+  }
+  
+h1{
+  font-family:'Trirong';
+    font-weight:bolder;
+  }
 
 .special {
   background-color: yellow;
@@ -42,13 +51,3 @@
 #mini .image-button.clicked .description {
   opacity: 1;
 }
-
-h2 {
-  font-family:'Trirong';
-   color:#024f36;
-  }
-  
-  h1{
-    font-family:'Trirong';
-    font-weight:bolder;
-  }
