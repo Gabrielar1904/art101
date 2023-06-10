@@ -8,7 +8,7 @@
 
 h2 {
   font-family:'Trirong';
-   color:#024f36;
+    color:#550358;
   }
   
 h1{
@@ -18,6 +18,8 @@ h1{
 
 #content {
 background-color:#ede7dd;
+
+color: rgb(150 32 112);
 
 border: 10px dotted #ab8abd
 }
