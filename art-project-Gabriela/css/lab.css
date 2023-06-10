@@ -17,7 +17,9 @@ h1{
   }
 
 #content {
-background-color:rgb(153, 184, 140);
+background-color:#ede7dd;
+
+border: 6px dotted #f7d5d8;
 }
 
 #mini .image-button {
