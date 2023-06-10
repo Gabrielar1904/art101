@@ -22,6 +22,10 @@ background-color:#ede7dd;
 border: 10px dotted #ab8abd
 }
 
+body {
+  background-color:#d4b4cb;;
+}
+
 #mini .image-button {
   position: relative;
 }
