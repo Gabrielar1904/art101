@@ -6,7 +6,6 @@
   background-color: #DDD8C4;
 }
 
-
 h2 {
   font-family:'Trirong';
    color:#024f36;
@@ -17,8 +16,8 @@ h1{
     font-weight:bolder;
   }
 
-.special {
-  background-color: yellow;
+#content {
+background-color:rgb(153, 184, 140);
 }
 
 #mini .image-button {
