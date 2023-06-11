@@ -50,10 +50,11 @@ body {
   left: 0;
   width: 100%;
   background-color: rgba(248, 199, 199, 0.8);
-  color: #047eb0;
+  color: #014178;
   text-align: center;
   padding: 10px;
   transition: opacity 0.3s ease;
+  font-size: 18px;
 }
 
 #mini .image-button:hover img {
